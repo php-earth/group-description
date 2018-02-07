@@ -1,22 +1,51 @@
-PHP: Hypertext Preprocessor
-PHP is a popular general-purpose scripting language that is especially suited to web development.
+🐘 PHP: Hypertext Preprocessor
+PHP is a popular general-purpose scripting language that is especially suited to web development. For anyone who uses PHP.
+https://php.net
 
-For anyone who uses PHP: https://php.net
-
-Group rules:
-https://php.earth/conduct
+⚠️ GROUP RULES:
 - Be nice and respectful to others.
 - Post in English.
-- Be professional. Aim for good quality in questions and discussions. For sharing code use nopaste sites.
+- Be professional. Aim for good quality in questions and discussions.
+- For sharing code use nopaste sites.
 - Publish only PHP and web-centric development related topics.
 - Job offers have to be PHP or web development related.
-- Don't share personal data.
+- Don't share personal data (emails, phone numbers...).
+- Read https://php.earth/conduct
 
-Frequently asked PHP questions: https://php.earth/docs/faq
+📌 GROUP GUIDES:
+- How to ask smart questions?
+https://php.earth/smart-questions
+- How to answer questions?
+https://php.earth/answers
+- Frequently asked questions:
+https://php.earth/docs/faq
+- PHP installation:
+https://php.earth/install
+- PHP frameworks:
+https://php.earth/docs/misc/frameworks
+- Nopaste sites:
+https://php.earth/docs/interop/nopaste
 
-How to ask smart questions: https://php.earth/docs/community/smart-questions
+📘 MUST CHECK:
+- Official PHP docs:
+http://php.net/docs
+- PHP best practices, coding standards, tutorials:
+http://phptherightway.com
+- Disproval of various PHP delusions and superstitions:
+https://phpdelusions.net
+- Open source PHP code:
+https://packagist.org
 
-Slack chat:
+🌍 LOCAL GROUPS:
+Discuss PHP in your language or meet PHP people in person
+https://php.ug
+
+💬 SLACK:
+Chat channels for additional PHP and development related discussions
 https://php.earth/slack
 
-PHP documentation: https://php.net/manual
+️🏆 TOP CONTRIBUTORS:
+https://php.earth/contributors
+
+🤝 ADMINS:
+https://php.earth/team/admins
