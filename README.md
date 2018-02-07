@@ -16,7 +16,7 @@ Group description is afterwards available on multiple locations:
 
 ## Content
 
-* Content is available in a separate documeent [description.txt](/description.txt).
+* Content is available in a separate document [description.txt](/description.txt).
 * Emojis are used to highlight certain parts of the description.
 
 ## Contributing and license
