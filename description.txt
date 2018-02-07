@@ -1,0 +1,22 @@
+PHP: Hypertext Preprocessor
+PHP is a popular general-purpose scripting language that is especially suited to web development.
+
+For anyone who uses PHP: https://php.net
+
+Group rules:
+https://php.earth/conduct
+- Be nice and respectful to others.
+- Post in English.
+- Be professional. Aim for good quality in questions and discussions. For sharing code use nopaste sites.
+- Publish only PHP and web-centric development related topics.
+- Job offers have to be PHP or web development related.
+- Don't share personal data.
+
+Frequently asked PHP questions: https://php.earth/docs/faq
+
+How to ask smart questions: https://php.earth/docs/community/smart-questions
+
+Slack chat:
+https://php.earth/slack
+
+PHP documentation: https://php.net/manual
