@@ -1,8 +1,8 @@
 # Description for the Global PHP group on Facebook
 
-This repository includes text for the group description of the
+This repository includes the description text of the
 [Global PHP Group on Facebook](https://www.facebook.com/groups/2204685680/) so
-we have some history versioning available.
+we have history versioning available.
 
 <div align="center">
   <img src="https://cdn.rawgit.com/php-earth/logo/master/svg/indigo.svg" width="300">
@@ -13,6 +13,7 @@ Group description is afterwards available on multiple locations:
 * In the [about section](https://www.facebook.com/groups/2204685680/about/)
 * In the right sidebar, when browsing the group.
 * On mobile devices the description is available in the about section only.
+* In the group pinned post.
 
 ## Content
 
