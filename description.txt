@@ -15,7 +15,7 @@ https://php.net
 
 📌 GROUP GUIDES:
 - How to ask smart questions?
-https://php.earth/smart-questions
+https://php.earth/questions
 - How to answer questions?
 https://php.earth/answers
 - Frequently asked questions:
