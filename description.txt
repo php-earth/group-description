@@ -41,9 +41,9 @@ https://packagist.org
 Discuss PHP in your language or meet PHP people in person
 https://php.ug
 
-💬 SLACK:
-Chat channels for additional PHP and development related discussions
-https://php.earth/slack
+💬 HELP:
+Additional PHP and development related help:
+https://github.com/php-earth/help
 
 ️🏆 TOP CONTRIBUTORS:
 https://php.earth/contributors
