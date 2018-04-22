@@ -20,7 +20,7 @@ https://php.earth/questions
 https://php.earth/answers
 - Frequently asked questions:
 https://php.earth/docs/faq
-- Start here
+- Where to start?
 https://php.earth/docs/faq/intro/what-is-php
 - PHP installation:
 https://php.earth/install
