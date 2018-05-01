@@ -13,7 +13,6 @@ Group description is afterwards available on multiple locations:
 * In the [about section](https://www.facebook.com/groups/2204685680/about/)
 * In the right sidebar, when browsing the group.
 * On mobile devices the description is available in the about section only.
-* In the group pinned post.
 
 ## Content
 
