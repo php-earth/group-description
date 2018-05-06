@@ -5,7 +5,7 @@ This repository includes the description text of the
 we have history versioning available.
 
 <div align="center">
-  <img src="https://cdn.rawgit.com/php-earth/logo/master/svg/indigo.svg" width="300">
+  <img src="https://cdn.rawgit.com/phpearth/logo/master/svg/indigo.svg" width="300">
 </div>
 
 Group description is afterwards available on multiple locations:

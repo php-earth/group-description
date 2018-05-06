@@ -45,10 +45,10 @@ https://php.ug
 
 💬 HELP:
 Additional PHP and development related help:
-https://github.com/php-earth/help
+https://github.com/phpearth/help
 
 ️🏆 TOP CONTRIBUTORS:
 https://php.earth/contributors
 
 🤝 ADMINS:
-https://php.earth/team/admins
+https://php.earth/team
