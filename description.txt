@@ -11,7 +11,7 @@ https://php.net
 - Publish only PHP and web-centric development related topics.
 - Job offers have to be PHP or web development related.
 - Don't share personal data (emails, phone numbers...).
-- Read https://php.earth/conduct
+- Read https://coc.php.earth
 
 📌 GROUP GUIDES:
 - How to ask smart questions?
