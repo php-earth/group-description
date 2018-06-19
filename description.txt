@@ -1,4 +1,4 @@
-Welcome in the PHP group. For anyone who uses PHP.
+Welcome to the PHP group.
 
 🐘 PHP: Hypertext Preprocessor is a popular general-purpose scripting language that is especially suited to web development.
 https://php.net
