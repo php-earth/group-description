@@ -51,4 +51,6 @@ https://github.com/phpearth/help
 https://php.earth/contributors
 
 🤝 ADMINS:
-https://php.earth/team
+- https://php.earth/team
+- Have questions or experiencing issues? Ask admins here:
+fb.com/groups/2204685680/permalink/10156916600625681
