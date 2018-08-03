@@ -19,15 +19,15 @@ https://php.earth/questions
 - How to answer questions?
 https://php.earth/answers
 - Frequently asked questions:
-https://php.earth/docs/faq
+https://docs.php.earth/faq
 - Where to start?
-https://php.earth/docs/faq/intro/what-is-php
+https://docs.php.earth/faq/intro/what-is-php
 - PHP installation:
 https://php.earth/install
 - PHP frameworks:
-https://php.earth/docs/misc/frameworks
+https://docs.php.earth/misc/frameworks
 - Nopaste sites:
-https://php.earth/docs/interop/nopaste
+https://docs.php.earth/interop/nopaste
 
 📘 MUST CHECK:
 - Official PHP docs:
