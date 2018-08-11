@@ -33,7 +33,7 @@ https://docs.php.earth/interop/nopaste
 - Official PHP docs:
 https://php.net/docs
 - PHP best practices, coding standards, tutorials:
-http://phptherightway.com
+https://phptherightway.com
 - Disproval of various PHP delusions and superstitions:
 https://phpdelusions.net
 - Open source PHP code:
