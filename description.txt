@@ -28,6 +28,8 @@ https://php.earth/install
 https://docs.php.earth/misc/frameworks
 - Nopaste sites:
 https://docs.php.earth/interop/nopaste
+- Recommended PHP books:
+https://docs.php.earth/faq/intro/books
 
 📘 MUST CHECK:
 - Official PHP docs:
