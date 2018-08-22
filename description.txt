@@ -23,7 +23,7 @@ https://docs.php.earth/faq
 - Where to start?
 https://docs.php.earth/faq/intro/what-is-php
 - PHP installation:
-https://php.earth/install
+https://install.php.earth
 - PHP frameworks:
 https://docs.php.earth/misc/frameworks
 - Nopaste sites:
