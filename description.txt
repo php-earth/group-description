@@ -22,8 +22,6 @@ https://php.earth/answers
 https://docs.php.earth/faq
 - Where to start?
 https://docs.php.earth/faq/intro/what-is-php
-- PHP installation:
-https://install.php.earth
 - PHP frameworks:
 https://docs.php.earth/misc/frameworks
 - Nopaste sites:
@@ -45,14 +43,6 @@ https://packagist.org
 Discuss PHP in your language or meet PHP people in person
 https://php.ug
 
-💬 HELP:
-Additional PHP and development related help:
-https://github.com/phpearth/help
-
-️🏆 TOP CONTRIBUTORS:
-https://php.earth/contributors
-
 🤝 ADMINS:
-- https://php.earth/team
 - Have questions or experiencing issues? Ask admins here:
 fb.com/groups/2204685680/permalink/10156916600625681
